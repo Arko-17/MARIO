@@ -1,0 +1,30 @@
+.division{
+width: 100%;
+text-align: left;
+}
+.division h3{
+    display: inline;
+}
+.division button{
+    float: right;
+}
+.bienvenue{
+    width: 100%;
+}
+#play,#status{
+    font-size: 22px;
+}
+h4{
+    background-image: linear-gradient(magenta,violet);
+    line-height: 2;
+    margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+video{
+    background:url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
